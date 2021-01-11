@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/alipay-demo/alipay-demo.iml" filepath="$PROJECT_DIR$/p2p-work/alipay-demo/alipay-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/makeQrCode/makeQrCode.iml" filepath="$PROJECT_DIR$/p2p-work/makeQrCode/makeQrCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/p2p-api/p2p-api.iml" filepath="$PROJECT_DIR$/p2p-work/p2p-api/p2p-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/p2p-common/p2p-common.iml" filepath="$PROJECT_DIR$/p2p-work/p2p-common/p2p-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/p2p-dataservice/p2p-dataservice.iml" filepath="$PROJECT_DIR$/p2p-work/p2p-dataservice/p2p-dataservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/p2p-parent/p2p-parent.iml" filepath="$PROJECT_DIR$/p2p-work/p2p-parent/p2p-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/p2p-pay/p2p-pay.iml" filepath="$PROJECT_DIR$/p2p-work/p2p-pay/p2p-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/p2p-web/p2p-web.iml" filepath="$PROJECT_DIR$/p2p-work/p2p-web/p2p-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-work/spring-task/spring-task.iml" filepath="$PROJECT_DIR$/p2p-work/spring-task/spring-task.iml" />
+    </modules>
+  </component>
+</project>

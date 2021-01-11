@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+</head>
+<body>
+<script type="text/javascript" th:inline="javascript" >
+    var contextPath = [[${#request.getContextPath()}]]
+
+    var url = [[${#request.getRequestURL()}]]
+    var queryStr = [[${#request.getQueryString()}]]
+
+    var returnStr = (url+(queryStr==null? '' :('?'+ queryStr) ) )
+
+
+    $(function () {
+        $(".btn-login").on("click",function () {
+            //跳转页面
+            window.location.href=contextPath+"/loan/login"+"?returnStr="+returnStr
+        })
+    })
+</script>
+
+</body>
+</html>
